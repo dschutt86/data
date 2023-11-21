@@ -1,0 +1,5388 @@
+{
+	"ndm": {
+		"omm": [
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30795",
+							"OBJECT_ID": "2023-162A",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.28957371,
+								"ECCENTRICITY": 0.0001617,
+								"INCLINATION": 42.9997,
+								"RA_OF_ASC_NODE": 21.6503,
+								"ARG_OF_PERICENTER": 264.9875,
+								"MEAN_ANOMALY": 35.3406
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58118,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 589,
+								"BSTAR": -0.083343,
+								"MEAN_MOTION_DOT": -0.02146551,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30765",
+							"OBJECT_ID": "2023-162B",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.39881365,
+								"ECCENTRICITY": 0.0001726,
+								"INCLINATION": 43.0001,
+								"RA_OF_ASC_NODE": 21.3453,
+								"ARG_OF_PERICENTER": 273.189,
+								"MEAN_ANOMALY": 153.5546
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58119,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 599,
+								"BSTAR": -0.058894,
+								"MEAN_MOTION_DOT": -0.02153961,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30768",
+							"OBJECT_ID": "2023-162C",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.29864814,
+								"ECCENTRICITY": 0.0001588,
+								"INCLINATION": 42.9998,
+								"RA_OF_ASC_NODE": 21.6136,
+								"ARG_OF_PERICENTER": 269.3077,
+								"MEAN_ANOMALY": 46.2337
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58120,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 589,
+								"BSTAR": -0.08102,
+								"MEAN_MOTION_DOT": -0.02146478,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30799",
+							"OBJECT_ID": "2023-162D",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.40313021,
+								"ECCENTRICITY": 0.0001612,
+								"INCLINATION": 43.0001,
+								"RA_OF_ASC_NODE": 21.3347,
+								"ARG_OF_PERICENTER": 279.293,
+								"MEAN_ANOMALY": 151.6281
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58121,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 594,
+								"BSTAR": -0.058041,
+								"MEAN_MOTION_DOT": -0.02153517,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30759",
+							"OBJECT_ID": "2023-162E",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.30771685,
+								"ECCENTRICITY": 0.0001699,
+								"INCLINATION": 42.9997,
+								"RA_OF_ASC_NODE": 21.5784,
+								"ARG_OF_PERICENTER": 263.5619,
+								"MEAN_ANOMALY": 66.5389
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58122,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 599,
+								"BSTAR": -0.078704,
+								"MEAN_MOTION_DOT": -0.02145335,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30781",
+							"OBJECT_ID": "2023-162F",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.31224994,
+								"ECCENTRICITY": 0.0001767,
+								"INCLINATION": 42.9997,
+								"RA_OF_ASC_NODE": 21.5614,
+								"ARG_OF_PERICENTER": 272.5092,
+								"MEAN_ANOMALY": 64.6257
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58123,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 599,
+								"BSTAR": -0.07756,
+								"MEAN_MOTION_DOT": -0.02144607,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30754",
+							"OBJECT_ID": "2023-162G",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.40724233,
+								"ECCENTRICITY": 0.0001723,
+								"INCLINATION": 43.0001,
+								"RA_OF_ASC_NODE": 21.3235,
+								"ARG_OF_PERICENTER": 274.9671,
+								"MEAN_ANOMALY": 160.4129
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58124,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 589,
+								"BSTAR": -0.057303,
+								"MEAN_MOTION_DOT": -0.0215543,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30766",
+							"OBJECT_ID": "2023-162H",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.32130022,
+								"ECCENTRICITY": 0.000185,
+								"INCLINATION": 42.9997,
+								"RA_OF_ASC_NODE": 21.5282,
+								"ARG_OF_PERICENTER": 280.5611,
+								"MEAN_ANOMALY": 70.1532
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58125,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 599,
+								"BSTAR": -0.07526,
+								"MEAN_MOTION_DOT": -0.02141684,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30767",
+							"OBJECT_ID": "2023-162J",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.32584878,
+								"ECCENTRICITY": 0.0001836,
+								"INCLINATION": 42.9998,
+								"RA_OF_ASC_NODE": 21.5122,
+								"ARG_OF_PERICENTER": 275.0894,
+								"MEAN_ANOMALY": 82.1685
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58126,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 599,
+								"BSTAR": -0.074226,
+								"MEAN_MOTION_DOT": -0.02142802,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30790",
+							"OBJECT_ID": "2023-162K",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.33042043,
+								"ECCENTRICITY": 0.0001772,
+								"INCLINATION": 42.9998,
+								"RA_OF_ASC_NODE": 21.4966,
+								"ARG_OF_PERICENTER": 272.1721,
+								"MEAN_ANOMALY": 91.4645
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58127,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 599,
+								"BSTAR": -0.073312,
+								"MEAN_MOTION_DOT": -0.02146902,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30787",
+							"OBJECT_ID": "2023-162L",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.33494649,
+								"ECCENTRICITY": 0.0001631,
+								"INCLINATION": 42.9999,
+								"RA_OF_ASC_NODE": 21.481,
+								"ARG_OF_PERICENTER": 272.0644,
+								"MEAN_ANOMALY": 97.7896
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58128,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 599,
+								"BSTAR": -0.0722,
+								"MEAN_MOTION_DOT": -0.0214518,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30756",
+							"OBJECT_ID": "2023-162M",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.41091079,
+								"ECCENTRICITY": 0.000169,
+								"INCLINATION": 43,
+								"RA_OF_ASC_NODE": 21.31,
+								"ARG_OF_PERICENTER": 276.2367,
+								"MEAN_ANOMALY": 164.3428
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58129,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 599,
+								"BSTAR": -0.056636,
+								"MEAN_MOTION_DOT": -0.02119243,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30783",
+							"OBJECT_ID": "2023-162N",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.34402643,
+								"ECCENTRICITY": 0.0001517,
+								"INCLINATION": 42.9999,
+								"RA_OF_ASC_NODE": 21.4517,
+								"ARG_OF_PERICENTER": 273.6494,
+								"MEAN_ANOMALY": 108.1479
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58130,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 599,
+								"BSTAR": -0.07016,
+								"MEAN_MOTION_DOT": -0.02145919,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30757",
+							"OBJECT_ID": "2023-162P",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.34857121,
+								"ECCENTRICITY": 0.0001568,
+								"INCLINATION": 42.9999,
+								"RA_OF_ASC_NODE": 21.4378,
+								"ARG_OF_PERICENTER": 272.3818,
+								"MEAN_ANOMALY": 115.1413
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58131,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 594,
+								"BSTAR": -0.069173,
+								"MEAN_MOTION_DOT": -0.02146812,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30770",
+							"OBJECT_ID": "2023-162Q",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.40146633,
+								"ECCENTRICITY": 0.0000889,
+								"INCLINATION": 42.9997,
+								"RA_OF_ASC_NODE": 19.8578,
+								"ARG_OF_PERICENTER": 278.6965,
+								"MEAN_ANOMALY": 115.1887
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58132,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 595,
+								"BSTAR": -0.054805,
+								"MEAN_MOTION_DOT": -0.02000948,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30758",
+							"OBJECT_ID": "2023-162R",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.35311129,
+								"ECCENTRICITY": 0.0001721,
+								"INCLINATION": 43,
+								"RA_OF_ASC_NODE": 21.4241,
+								"ARG_OF_PERICENTER": 273.1954,
+								"MEAN_ANOMALY": 119.8901
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58133,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 599,
+								"BSTAR": -0.068163,
+								"MEAN_MOTION_DOT": -0.02146768,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30761",
+							"OBJECT_ID": "2023-162S",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.41933429,
+								"ECCENTRICITY": 0.0001679,
+								"INCLINATION": 43,
+								"RA_OF_ASC_NODE": 21.2905,
+								"ARG_OF_PERICENTER": 275.0252,
+								"MEAN_ANOMALY": 173.3836
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58134,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 599,
+								"BSTAR": -0.055088,
+								"MEAN_MOTION_DOT": -0.02120533,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30772",
+							"OBJECT_ID": "2023-162T",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.36671497,
+								"ECCENTRICITY": 0.000187,
+								"INCLINATION": 42.9999,
+								"RA_OF_ASC_NODE": 21.3868,
+								"ARG_OF_PERICENTER": 276.2096,
+								"MEAN_ANOMALY": 132.5837
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58135,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 589,
+								"BSTAR": -0.065191,
+								"MEAN_MOTION_DOT": -0.02145997,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30776",
+							"OBJECT_ID": "2023-162U",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.37128152,
+								"ECCENTRICITY": 0.0001741,
+								"INCLINATION": 43,
+								"RA_OF_ASC_NODE": 21.3747,
+								"ARG_OF_PERICENTER": 271.2364,
+								"MEAN_ANOMALY": 142.4647
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58136,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 599,
+								"BSTAR": -0.064365,
+								"MEAN_MOTION_DOT": -0.02150093,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30782",
+							"OBJECT_ID": "2023-162V",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-18T16:00:00.999936",
+								"MEAN_MOTION": 15.47768936,
+								"ECCENTRICITY": 0.0001453,
+								"INCLINATION": 42.9994,
+								"RA_OF_ASC_NODE": 34.3675,
+								"ARG_OF_PERICENTER": 271.3901,
+								"MEAN_ANOMALY": 236.5683
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58137,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 564,
+								"BSTAR": -0.043069,
+								"MEAN_MOTION_DOT": -0.02037819,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30769",
+							"OBJECT_ID": "2023-162W",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.38490453,
+								"ECCENTRICITY": 0.0001723,
+								"INCLINATION": 43,
+								"RA_OF_ASC_NODE": 21.3413,
+								"ARG_OF_PERICENTER": 278.3516,
+								"MEAN_ANOMALY": 149.094
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58138,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 599,
+								"BSTAR": -0.061583,
+								"MEAN_MOTION_DOT": -0.0215115,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30775",
+							"OBJECT_ID": "2023-162X",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-18T22:00:00.999936",
+								"MEAN_MOTION": 15.47149628,
+								"ECCENTRICITY": 0.0001386,
+								"INCLINATION": 42.9995,
+								"RA_OF_ASC_NODE": 32.9072,
+								"ARG_OF_PERICENTER": 274.1398,
+								"MEAN_ANOMALY": 189.2665
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58139,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 560,
+								"BSTAR": -0.046483,
+								"MEAN_MOTION_DOT": -0.02138805,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30780",
+							"OBJECT_ID": "2023-162Y",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.38945623,
+								"ECCENTRICITY": 0.0001653,
+								"INCLINATION": 42.9999,
+								"RA_OF_ASC_NODE": 21.331,
+								"ARG_OF_PERICENTER": 275.8769,
+								"MEAN_ANOMALY": 155.8234
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58140,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 599,
+								"BSTAR": -0.060751,
+								"MEAN_MOTION_DOT": -0.02153894,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "YAOGAN-39 04A",
+							"OBJECT_ID": "2023-163A",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T03:25:26.148864",
+								"MEAN_MOTION": 15.22278889,
+								"ECCENTRICITY": 0.0005116,
+								"INCLINATION": 34.9938,
+								"RA_OF_ASC_NODE": 130.3738,
+								"ARG_OF_PERICENTER": 159.5196,
+								"MEAN_ANOMALY": 200.5724
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58141,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 432,
+								"BSTAR": 0.00047096,
+								"MEAN_MOTION_DOT": 0.00011089,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "CZ-2D R/B",
+							"OBJECT_ID": "2023-163B",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T20:29:55.185216",
+								"MEAN_MOTION": 15.24777116,
+								"ECCENTRICITY": 0.000587,
+								"INCLINATION": 34.9942,
+								"RA_OF_ASC_NODE": 131.8041,
+								"ARG_OF_PERICENTER": 163.2979,
+								"MEAN_ANOMALY": 196.793
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58142,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 427,
+								"BSTAR": 0.00087228,
+								"MEAN_MOTION_DOT": 0.00022197,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "YAOGAN-39 04B",
+							"OBJECT_ID": "2023-163C",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T03:18:52.972704",
+								"MEAN_MOTION": 15.22178611,
+								"ECCENTRICITY": 0.0014446,
+								"INCLINATION": 34.9946,
+								"RA_OF_ASC_NODE": 130.3371,
+								"ARG_OF_PERICENTER": 160.1049,
+								"MEAN_ANOMALY": 200.0231
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58143,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 431,
+								"BSTAR": 0.00040839,
+								"MEAN_MOTION_DOT": 0.00009604,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "CZ-2D DEB",
+							"OBJECT_ID": "2023-163D",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T18:40:50.710080",
+								"MEAN_MOTION": 15.25647662,
+								"ECCENTRICITY": 0.0005534,
+								"INCLINATION": 34.9935,
+								"RA_OF_ASC_NODE": 132.132,
+								"ARG_OF_PERICENTER": 171.1671,
+								"MEAN_ANOMALY": 188.9142
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58144,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 426,
+								"BSTAR": 0.0011908,
+								"MEAN_MOTION_DOT": 0.00031158,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "YAOGAN-39 04C",
+							"OBJECT_ID": "2023-163E",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T03:15:21.161376",
+								"MEAN_MOTION": 15.22175321,
+								"ECCENTRICITY": 0.0009423,
+								"INCLINATION": 34.9938,
+								"RA_OF_ASC_NODE": 130.3153,
+								"ARG_OF_PERICENTER": 152.5894,
+								"MEAN_ANOMALY": 207.5318
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58145,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 432,
+								"BSTAR": 0.00050429,
+								"MEAN_MOTION_DOT": 0.00011851,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "SHENZHOU-17 (SZ-17)",
+							"OBJECT_ID": "2023-164A",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T07:42:06.124608",
+								"MEAN_MOTION": 15.62120953,
+								"ECCENTRICITY": 0.0005534,
+								"INCLINATION": 41.4713,
+								"RA_OF_ASC_NODE": 285.2639,
+								"ARG_OF_PERICENTER": 188.4107,
+								"MEAN_ANOMALY": 171.6641
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58146,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 14624,
+								"BSTAR": 0.00032417,
+								"MEAN_MOTION_DOT": 0.00029043,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "COSMOS 2570",
+							"OBJECT_ID": "2023-165A",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T21:13:05.781216",
+								"MEAN_MOTION": 13.96673414,
+								"ECCENTRICITY": 0.0006866,
+								"INCLINATION": 67.1501,
+								"RA_OF_ASC_NODE": 52.3919,
+								"ARG_OF_PERICENTER": 264.9675,
+								"MEAN_ANOMALY": 95.0626
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58148,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 346,
+								"BSTAR": 0.0000281,
+								"MEAN_MOTION_DOT": -3.6e-7,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "SL-4 R/B",
+							"OBJECT_ID": "2023-165B",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T01:34:54.528096",
+								"MEAN_MOTION": 15.10584482,
+								"ECCENTRICITY": 0.0435702,
+								"INCLINATION": 67.1418,
+								"RA_OF_ASC_NODE": 40.7814,
+								"ARG_OF_PERICENTER": 68.6404,
+								"MEAN_ANOMALY": 296.0648
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58149,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 374,
+								"BSTAR": 0.00059699,
+								"MEAN_MOTION_DOT": 0.00127444,
+								"MEAN_MOTION_DDOT": 0.000007661
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30802",
+							"OBJECT_ID": "2023-166A",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.46719818,
+								"ECCENTRICITY": 0.0000767,
+								"INCLINATION": 53.0552,
+								"RA_OF_ASC_NODE": 149.8583,
+								"ARG_OF_PERICENTER": 89.1397,
+								"MEAN_ANOMALY": 325.9569
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58150,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 482,
+								"BSTAR": -0.035698,
+								"MEAN_MOTION_DOT": -0.0162727,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30834",
+							"OBJECT_ID": "2023-166B",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.46719429,
+								"ECCENTRICITY": 0.0000855,
+								"INCLINATION": 53.0551,
+								"RA_OF_ASC_NODE": 149.857,
+								"ARG_OF_PERICENTER": 97.4544,
+								"MEAN_ANOMALY": 318.23
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58151,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 482,
+								"BSTAR": -0.035725,
+								"MEAN_MOTION_DOT": -0.01628391,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30833",
+							"OBJECT_ID": "2023-166C",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T06:00:00.999648",
+								"MEAN_MOTION": 15.4554293,
+								"ECCENTRICITY": 0.0001013,
+								"INCLINATION": 53.0547,
+								"RA_OF_ASC_NODE": 148.2627,
+								"ARG_OF_PERICENTER": 93.8239,
+								"MEAN_ANOMALY": 19.4443
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58152,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 483,
+								"BSTAR": -0.038052,
+								"MEAN_MOTION_DOT": -0.01661279,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30831",
+							"OBJECT_ID": "2023-166D",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.46713696,
+								"ECCENTRICITY": 0.0000798,
+								"INCLINATION": 53.055,
+								"RA_OF_ASC_NODE": 149.8531,
+								"ARG_OF_PERICENTER": 78.4122,
+								"MEAN_ANOMALY": 339.0385
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58153,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 482,
+								"BSTAR": -0.035699,
+								"MEAN_MOTION_DOT": -0.01627012,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30797",
+							"OBJECT_ID": "2023-166E",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T06:00:00.999648",
+								"MEAN_MOTION": 15.45546402,
+								"ECCENTRICITY": 0.0001088,
+								"INCLINATION": 53.0547,
+								"RA_OF_ASC_NODE": 148.2639,
+								"ARG_OF_PERICENTER": 94.9776,
+								"MEAN_ANOMALY": 17.7039
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58154,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 460,
+								"BSTAR": -0.038207,
+								"MEAN_MOTION_DOT": -0.01667546,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30804",
+							"OBJECT_ID": "2023-166F",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.46712184,
+								"ECCENTRICITY": 0.0000784,
+								"INCLINATION": 53.0551,
+								"RA_OF_ASC_NODE": 149.8522,
+								"ARG_OF_PERICENTER": 78.9067,
+								"MEAN_ANOMALY": 339.1322
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58155,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 482,
+								"BSTAR": -0.035692,
+								"MEAN_MOTION_DOT": -0.01626643,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30784",
+							"OBJECT_ID": "2023-166G",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.46709756,
+								"ECCENTRICITY": 0.0000837,
+								"INCLINATION": 53.0551,
+								"RA_OF_ASC_NODE": 149.8494,
+								"ARG_OF_PERICENTER": 79.1901,
+								"MEAN_ANOMALY": 340.0257
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58156,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 467,
+								"BSTAR": -0.035713,
+								"MEAN_MOTION_DOT": -0.016274,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30803",
+							"OBJECT_ID": "2023-166H",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.4585354,
+								"ECCENTRICITY": 0.0000797,
+								"INCLINATION": 53.0545,
+								"RA_OF_ASC_NODE": 148.6568,
+								"ARG_OF_PERICENTER": 98.5245,
+								"MEAN_ANOMALY": 272.5309
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58157,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 459,
+								"BSTAR": -0.038307,
+								"MEAN_MOTION_DOT": -0.01687283,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30829",
+							"OBJECT_ID": "2023-166J",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.46709186,
+								"ECCENTRICITY": 0.0000799,
+								"INCLINATION": 53.0551,
+								"RA_OF_ASC_NODE": 149.8483,
+								"ARG_OF_PERICENTER": 88.3558,
+								"MEAN_ANOMALY": 331.4475
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58158,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 482,
+								"BSTAR": -0.035725,
+								"MEAN_MOTION_DOT": -0.01627846,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30788",
+							"OBJECT_ID": "2023-166K",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.46706853,
+								"ECCENTRICITY": 0.0000794,
+								"INCLINATION": 53.055,
+								"RA_OF_ASC_NODE": 149.847,
+								"ARG_OF_PERICENTER": 78.2129,
+								"MEAN_ANOMALY": 342.1794
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58159,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 466,
+								"BSTAR": -0.035703,
+								"MEAN_MOTION_DOT": -0.01626826,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30779",
+							"OBJECT_ID": "2023-166L",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.46705779,
+								"ECCENTRICITY": 0.0000786,
+								"INCLINATION": 53.055,
+								"RA_OF_ASC_NODE": 149.8458,
+								"ARG_OF_PERICENTER": 83.9098,
+								"MEAN_ANOMALY": 337.0704
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58160,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 482,
+								"BSTAR": -0.035705,
+								"MEAN_MOTION_DOT": -0.01626849,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30773",
+							"OBJECT_ID": "2023-166M",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.46705082,
+								"ECCENTRICITY": 0.0000864,
+								"INCLINATION": 53.055,
+								"RA_OF_ASC_NODE": 149.8445,
+								"ARG_OF_PERICENTER": 86.4168,
+								"MEAN_ANOMALY": 335.1518
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58161,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 482,
+								"BSTAR": -0.035737,
+								"MEAN_MOTION_DOT": -0.01628155,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30816",
+							"OBJECT_ID": "2023-166N",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.45844842,
+								"ECCENTRICITY": 0.0000765,
+								"INCLINATION": 53.0545,
+								"RA_OF_ASC_NODE": 148.6494,
+								"ARG_OF_PERICENTER": 87.3318,
+								"MEAN_ANOMALY": 287.2466
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58162,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 482,
+								"BSTAR": -0.038329,
+								"MEAN_MOTION_DOT": -0.01687681,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30763",
+							"OBJECT_ID": "2023-166P",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.64070825,
+								"ECCENTRICITY": 0.0000816,
+								"INCLINATION": 53.0537,
+								"RA_OF_ASC_NODE": 147.0017,
+								"ARG_OF_PERICENTER": 81.8362,
+								"MEAN_ANOMALY": 20.0399
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58163,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 483,
+								"BSTAR": -0.020604,
+								"MEAN_MOTION_DOT": -0.01774597,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30815",
+							"OBJECT_ID": "2023-166Q",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.45844219,
+								"ECCENTRICITY": 0.0000811,
+								"INCLINATION": 53.0546,
+								"RA_OF_ASC_NODE": 148.6481,
+								"ARG_OF_PERICENTER": 89.1891,
+								"MEAN_ANOMALY": 285.9762
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58164,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 482,
+								"BSTAR": -0.038365,
+								"MEAN_MOTION_DOT": -0.01689084,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30814",
+							"OBJECT_ID": "2023-166R",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.4583703,
+								"ECCENTRICITY": 0.0000843,
+								"INCLINATION": 53.0545,
+								"RA_OF_ASC_NODE": 148.6416,
+								"ARG_OF_PERICENTER": 90.2271,
+								"MEAN_ANOMALY": 287.8737
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58165,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 481,
+								"BSTAR": -0.038347,
+								"MEAN_MOTION_DOT": -0.01688014,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30789",
+							"OBJECT_ID": "2023-166S",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.45842625,
+								"ECCENTRICITY": 0.0000924,
+								"INCLINATION": 53.0545,
+								"RA_OF_ASC_NODE": 148.6455,
+								"ARG_OF_PERICENTER": 99.9688,
+								"MEAN_ANOMALY": 276.3702
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58166,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 481,
+								"BSTAR": -0.03837,
+								"MEAN_MOTION_DOT": -0.01689247,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30811",
+							"OBJECT_ID": "2023-166T",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.4583668,
+								"ECCENTRICITY": 0.0000882,
+								"INCLINATION": 53.0544,
+								"RA_OF_ASC_NODE": 148.6432,
+								"ARG_OF_PERICENTER": 109.7715,
+								"MEAN_ANOMALY": 267.7423
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58167,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 465,
+								"BSTAR": -0.038248,
+								"MEAN_MOTION_DOT": -0.01684119,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30812",
+							"OBJECT_ID": "2023-166U",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.45840213,
+								"ECCENTRICITY": 0.0000765,
+								"INCLINATION": 53.0544,
+								"RA_OF_ASC_NODE": 148.6445,
+								"ARG_OF_PERICENTER": 102.4635,
+								"MEAN_ANOMALY": 274.4623
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58168,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 465,
+								"BSTAR": -0.038328,
+								"MEAN_MOTION_DOT": -0.016874,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30771",
+							"OBJECT_ID": "2023-166V",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.45835787,
+								"ECCENTRICITY": 0.0000801,
+								"INCLINATION": 53.0545,
+								"RA_OF_ASC_NODE": 148.6407,
+								"ARG_OF_PERICENTER": 103.1437,
+								"MEAN_ANOMALY": 275.5434
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58169,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 481,
+								"BSTAR": -0.038306,
+								"MEAN_MOTION_DOT": -0.01686319,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30764",
+							"OBJECT_ID": "2023-166W",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.45832615,
+								"ECCENTRICITY": 0.000095,
+								"INCLINATION": 53.0545,
+								"RA_OF_ASC_NODE": 148.6395,
+								"ARG_OF_PERICENTER": 105.7807,
+								"MEAN_ANOMALY": 273.4944
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58170,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 481,
+								"BSTAR": -0.038256,
+								"MEAN_MOTION_DOT": -0.01684251,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30752",
+							"OBJECT_ID": "2023-166X",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.45839192,
+								"ECCENTRICITY": 0.0001087,
+								"INCLINATION": 53.0546,
+								"RA_OF_ASC_NODE": 148.6384,
+								"ARG_OF_PERICENTER": 91.7512,
+								"MEAN_ANOMALY": 288.1072
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58171,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 482,
+								"BSTAR": -0.038579,
+								"MEAN_MOTION_DOT": -0.01697354,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "2023-165C",
+							"OBJECT_ID": "2023-165C",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T21:01:21.902016",
+								"MEAN_MOTION": 13.97199621,
+								"ECCENTRICITY": 0.0016184,
+								"INCLINATION": 67.1477,
+								"RA_OF_ASC_NODE": 52.3664,
+								"ARG_OF_PERICENTER": 321.6411,
+								"MEAN_ANOMALY": 38.3521
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58172,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 313,
+								"BSTAR": 0.000055108,
+								"MEAN_MOTION_DOT": 2e-8,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30753",
+							"OBJECT_ID": "2023-167A",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.53531895,
+								"ECCENTRICITY": 0.00015,
+								"INCLINATION": 43.0003,
+								"RA_OF_ASC_NODE": 38.45,
+								"ARG_OF_PERICENTER": 266.3343,
+								"MEAN_ANOMALY": 353.6639
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58175,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 450,
+								"BSTAR": -0.029118,
+								"MEAN_MOTION_DOT": -0.01699012,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30824",
+							"OBJECT_ID": "2023-167B",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.53531481,
+								"ECCENTRICITY": 0.0001424,
+								"INCLINATION": 43.0002,
+								"RA_OF_ASC_NODE": 38.4485,
+								"ARG_OF_PERICENTER": 262.6401,
+								"MEAN_ANOMALY": 357.9587
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58176,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 450,
+								"BSTAR": -0.029137,
+								"MEAN_MOTION_DOT": -0.01699942,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30791",
+							"OBJECT_ID": "2023-167C",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.53530284,
+								"ECCENTRICITY": 0.0001457,
+								"INCLINATION": 42.9998,
+								"RA_OF_ASC_NODE": 38.4468,
+								"ARG_OF_PERICENTER": 261.176,
+								"MEAN_ANOMALY": 0.0236
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58177,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 450,
+								"BSTAR": -0.029132,
+								"MEAN_MOTION_DOT": -0.01699632,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30810",
+							"OBJECT_ID": "2023-167D",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.52598657,
+								"ECCENTRICITY": 0.0001373,
+								"INCLINATION": 42.9997,
+								"RA_OF_ASC_NODE": 36.9778,
+								"ARG_OF_PERICENTER": 259.0534,
+								"MEAN_ANOMALY": 322.1775
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58178,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 450,
+								"BSTAR": -0.028967,
+								"MEAN_MOTION_DOT": -0.01640025,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30819",
+							"OBJECT_ID": "2023-167E",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.52597339,
+								"ECCENTRICITY": 0.0001329,
+								"INCLINATION": 42.9996,
+								"RA_OF_ASC_NODE": 36.976,
+								"ARG_OF_PERICENTER": 257.4597,
+								"MEAN_ANOMALY": 324.3712
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58179,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 456,
+								"BSTAR": -0.028964,
+								"MEAN_MOTION_DOT": -0.01639781,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30806",
+							"OBJECT_ID": "2023-167F",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.52594143,
+								"ECCENTRICITY": 0.0001132,
+								"INCLINATION": 42.9996,
+								"RA_OF_ASC_NODE": 36.9731,
+								"ARG_OF_PERICENTER": 267.1597,
+								"MEAN_ANOMALY": 315.8714
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58180,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 450,
+								"BSTAR": -0.028959,
+								"MEAN_MOTION_DOT": -0.01639264,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30821",
+							"OBJECT_ID": "2023-167G",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.53527011,
+								"ECCENTRICITY": 0.0001504,
+								"INCLINATION": 42.9999,
+								"RA_OF_ASC_NODE": 38.442,
+								"ARG_OF_PERICENTER": 262.0929,
+								"MEAN_ANOMALY": 0.9093
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58181,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 450,
+								"BSTAR": -0.029133,
+								"MEAN_MOTION_DOT": -0.01699525,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30778",
+							"OBJECT_ID": "2023-167H",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.52591523,
+								"ECCENTRICITY": 0.0001537,
+								"INCLINATION": 42.9997,
+								"RA_OF_ASC_NODE": 36.9718,
+								"ARG_OF_PERICENTER": 260.5436,
+								"MEAN_ANOMALY": 323.0878
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58182,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 450,
+								"BSTAR": -0.028889,
+								"MEAN_MOTION_DOT": -0.0163575,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30809",
+							"OBJECT_ID": "2023-167J",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.52592711,
+								"ECCENTRICITY": 0.00014,
+								"INCLINATION": 42.9995,
+								"RA_OF_ASC_NODE": 36.9701,
+								"ARG_OF_PERICENTER": 255.0072,
+								"MEAN_ANOMALY": 329.223
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58183,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 450,
+								"BSTAR": -0.028953,
+								"MEAN_MOTION_DOT": -0.01639006,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30801",
+							"OBJECT_ID": "2023-167K",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.53521071,
+								"ECCENTRICITY": 0.000137,
+								"INCLINATION": 42.9999,
+								"RA_OF_ASC_NODE": 38.436,
+								"ARG_OF_PERICENTER": 268.9723,
+								"MEAN_ANOMALY": 356.4337
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58184,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 450,
+								"BSTAR": -0.029079,
+								"MEAN_MOTION_DOT": -0.01696306,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30793",
+							"OBJECT_ID": "2023-167L",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.53521398,
+								"ECCENTRICITY": 0.0001151,
+								"INCLINATION": 43,
+								"RA_OF_ASC_NODE": 38.4345,
+								"ARG_OF_PERICENTER": 268.7289,
+								"MEAN_ANOMALY": 357.278
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58185,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 450,
+								"BSTAR": -0.029148,
+								"MEAN_MOTION_DOT": -0.01699817,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30755",
+							"OBJECT_ID": "2023-167M",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.52587178,
+								"ECCENTRICITY": 0.0001502,
+								"INCLINATION": 42.9996,
+								"RA_OF_ASC_NODE": 36.9654,
+								"ARG_OF_PERICENTER": 262.2386,
+								"MEAN_ANOMALY": 323.7928
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58186,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 450,
+								"BSTAR": -0.028899,
+								"MEAN_MOTION_DOT": -0.01636009,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30760",
+							"OBJECT_ID": "2023-167N",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.53518126,
+								"ECCENTRICITY": 0.0001502,
+								"INCLINATION": 42.9999,
+								"RA_OF_ASC_NODE": 38.4313,
+								"ARG_OF_PERICENTER": 267.8169,
+								"MEAN_ANOMALY": 359.3924
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58187,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 455,
+								"BSTAR": -0.029112,
+								"MEAN_MOTION_DOT": -0.01697931,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30826",
+							"OBJECT_ID": "2023-167P",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.53516354,
+								"ECCENTRICITY": 0.0001494,
+								"INCLINATION": 42.9999,
+								"RA_OF_ASC_NODE": 38.4282,
+								"ARG_OF_PERICENTER": 264.9092,
+								"MEAN_ANOMALY": 3.5017
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58188,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 450,
+								"BSTAR": -0.029123,
+								"MEAN_MOTION_DOT": -0.01698402,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30796",
+							"OBJECT_ID": "2023-167Q",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.5351807,
+								"ECCENTRICITY": 0.0001532,
+								"INCLINATION": 43,
+								"RA_OF_ASC_NODE": 38.4297,
+								"ARG_OF_PERICENTER": 263.6008,
+								"MEAN_ANOMALY": 4.2087
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58189,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 450,
+								"BSTAR": -0.029133,
+								"MEAN_MOTION_DOT": -0.0169904,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30820",
+							"OBJECT_ID": "2023-167R",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.53515815,
+								"ECCENTRICITY": 0.0001514,
+								"INCLINATION": 42.9998,
+								"RA_OF_ASC_NODE": 38.4266,
+								"ARG_OF_PERICENTER": 262.2067,
+								"MEAN_ANOMALY": 6.8046
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58190,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 455,
+								"BSTAR": -0.029134,
+								"MEAN_MOTION_DOT": -0.01698957,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30785",
+							"OBJECT_ID": "2023-167S",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.52579934,
+								"ECCENTRICITY": 0.0001348,
+								"INCLINATION": 42.9996,
+								"RA_OF_ASC_NODE": 36.956,
+								"ARG_OF_PERICENTER": 265.0338,
+								"MEAN_ANOMALY": 324.5977
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58191,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 450,
+								"BSTAR": -0.028897,
+								"MEAN_MOTION_DOT": -0.01635447,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30807",
+							"OBJECT_ID": "2023-167T",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.52580238,
+								"ECCENTRICITY": 0.0001238,
+								"INCLINATION": 42.9996,
+								"RA_OF_ASC_NODE": 36.9576,
+								"ARG_OF_PERICENTER": 265.5269,
+								"MEAN_ANOMALY": 323.5052
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58192,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 455,
+								"BSTAR": -0.028881,
+								"MEAN_MOTION_DOT": -0.01634599,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30822",
+							"OBJECT_ID": "2023-167U",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.5351234,
+								"ECCENTRICITY": 0.0001537,
+								"INCLINATION": 42.9998,
+								"RA_OF_ASC_NODE": 38.4221,
+								"ARG_OF_PERICENTER": 269.5147,
+								"MEAN_ANOMALY": 1.2994
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58193,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 455,
+								"BSTAR": -0.029132,
+								"MEAN_MOTION_DOT": -0.0169867,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30830",
+							"OBJECT_ID": "2023-167V",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.53511014,
+								"ECCENTRICITY": 0.0001474,
+								"INCLINATION": 42.9998,
+								"RA_OF_ASC_NODE": 38.4203,
+								"ARG_OF_PERICENTER": 262.4073,
+								"MEAN_ANOMALY": 9.0079
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58194,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 455,
+								"BSTAR": -0.029128,
+								"MEAN_MOTION_DOT": -0.01698355,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30827",
+							"OBJECT_ID": "2023-167W",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.52572391,
+								"ECCENTRICITY": 0.0001275,
+								"INCLINATION": 42.9996,
+								"RA_OF_ASC_NODE": 36.9517,
+								"ARG_OF_PERICENTER": 272.2885,
+								"MEAN_ANOMALY": 319.1441
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58195,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 445,
+								"BSTAR": -0.028785,
+								"MEAN_MOTION_DOT": -0.0162931,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30798",
+							"OBJECT_ID": "2023-167X",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.52578458,
+								"ECCENTRICITY": 0.000139,
+								"INCLINATION": 42.9996,
+								"RA_OF_ASC_NODE": 36.9503,
+								"ARG_OF_PERICENTER": 256.4559,
+								"MEAN_ANOMALY": 335.5733
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58196,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 450,
+								"BSTAR": -0.028962,
+								"MEAN_MOTION_DOT": -0.01638693,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30762",
+							"OBJECT_ID": "2023-167Y",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.53507172,
+								"ECCENTRICITY": 0.0001413,
+								"INCLINATION": 42.9998,
+								"RA_OF_ASC_NODE": 38.4161,
+								"ARG_OF_PERICENTER": 267.2931,
+								"MEAN_ANOMALY": 5.9252
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58197,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 450,
+								"BSTAR": -0.029125,
+								"MEAN_MOTION_DOT": -0.01697953,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "SZ-16 MODULE",
+							"OBJECT_ID": "2023-077G",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T07:23:16.988064",
+								"MEAN_MOTION": 15.63078912,
+								"ECCENTRICITY": 0.0009768,
+								"INCLINATION": 41.4832,
+								"RA_OF_ASC_NODE": 285.1704,
+								"ARG_OF_PERICENTER": 205.2058,
+								"MEAN_ANOMALY": 154.8307
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58198,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 314,
+								"BSTAR": 0.00030777,
+								"MEAN_MOTION_DOT": 0.00028661,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "TIANHUI 5A",
+							"OBJECT_ID": "2023-168A",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T02:49:29.411328",
+								"MEAN_MOTION": 14.86887247,
+								"ECCENTRICITY": 0.0001214,
+								"INCLINATION": 97.8278,
+								"RA_OF_ASC_NODE": 329.9725,
+								"ARG_OF_PERICENTER": 169.3238,
+								"MEAN_ANOMALY": 190.8004
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58199,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 299,
+								"BSTAR": 0.00006033,
+								"MEAN_MOTION_DOT": 0.00000485,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "CZ-6A R/B",
+							"OBJECT_ID": "2023-168B",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:49:39.207936",
+								"MEAN_MOTION": 15.0445599,
+								"ECCENTRICITY": 0.0076101,
+								"INCLINATION": 97.8117,
+								"RA_OF_ASC_NODE": 330.304,
+								"ARG_OF_PERICENTER": 324.4152,
+								"MEAN_ANOMALY": 35.2012
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58200,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 301,
+								"BSTAR": 0.00026562,
+								"MEAN_MOTION_DOT": 0.0000389,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "TIANHUI 5B",
+							"OBJECT_ID": "2023-168C",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T02:49:35.277024",
+								"MEAN_MOTION": 14.86885532,
+								"ECCENTRICITY": 0.0001135,
+								"INCLINATION": 97.8275,
+								"RA_OF_ASC_NODE": 329.9717,
+								"ARG_OF_PERICENTER": 168.4437,
+								"MEAN_ANOMALY": 191.6806
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58201,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 299,
+								"BSTAR": 0.000061038,
+								"MEAN_MOTION_DOT": 0.00000491,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "CZ-6A DEB",
+							"OBJECT_ID": "2023-168D",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T23:38:16.135872",
+								"MEAN_MOTION": 14.86996474,
+								"ECCENTRICITY": 0.0003948,
+								"INCLINATION": 97.8269,
+								"RA_OF_ASC_NODE": 329.8337,
+								"ARG_OF_PERICENTER": 123.8495,
+								"MEAN_ANOMALY": 236.3097
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58202,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 297,
+								"BSTAR": 0.00077734,
+								"MEAN_MOTION_DOT": 0.00006911,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "TJS-10",
+							"OBJECT_ID": "2023-169A",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T21:15:37.799424",
+								"MEAN_MOTION": 1.00277241,
+								"ECCENTRICITY": 0.0003033,
+								"INCLINATION": 0.108,
+								"RA_OF_ASC_NODE": 83.8417,
+								"ARG_OF_PERICENTER": 242.7662,
+								"MEAN_ANOMALY": 225.326
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58204,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 12,
+								"BSTAR": 0,
+								"MEAN_MOTION_DOT": 1.1e-7,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "CZ-7A R/B",
+							"OBJECT_ID": "2023-169B",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T11:40:38.293248",
+								"MEAN_MOTION": 2.53559574,
+								"ECCENTRICITY": 0.7143934,
+								"INCLINATION": 16.8768,
+								"RA_OF_ASC_NODE": 279.6704,
+								"ARG_OF_PERICENTER": 192.2701,
+								"MEAN_ANOMALY": 130.5392
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58205,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 41,
+								"BSTAR": 0.0004843,
+								"MEAN_MOTION_DOT": 0.00618385,
+								"MEAN_MOTION_DDOT": 0.0000042046
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30800",
+							"OBJECT_ID": "2023-170A",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.65034628,
+								"ECCENTRICITY": 0.0001478,
+								"INCLINATION": 43.0002,
+								"RA_OF_ASC_NODE": 85.8221,
+								"ARG_OF_PERICENTER": 281.8841,
+								"MEAN_ANOMALY": 171.9365
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58206,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 391,
+								"BSTAR": -0.018344,
+								"MEAN_MOTION_DOT": -0.01640267,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30845",
+							"OBJECT_ID": "2023-170B",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.64127475,
+								"ECCENTRICITY": 0.0001423,
+								"INCLINATION": 43.0006,
+								"RA_OF_ASC_NODE": 84.3263,
+								"ARG_OF_PERICENTER": 280.7797,
+								"MEAN_ANOMALY": 143.4813
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58207,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 394,
+								"BSTAR": -0.018956,
+								"MEAN_MOTION_DOT": -0.01634945,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30841",
+							"OBJECT_ID": "2023-170C",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.64127885,
+								"ECCENTRICITY": 0.0001565,
+								"INCLINATION": 43.0003,
+								"RA_OF_ASC_NODE": 84.3246,
+								"ARG_OF_PERICENTER": 272.9648,
+								"MEAN_ANOMALY": 151.9067
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58208,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 381,
+								"BSTAR": -0.018983,
+								"MEAN_MOTION_DOT": -0.01637112,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30839",
+							"OBJECT_ID": "2023-170D",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.64124334,
+								"ECCENTRICITY": 0.0001759,
+								"INCLINATION": 43.0005,
+								"RA_OF_ASC_NODE": 84.3215,
+								"ARG_OF_PERICENTER": 270.9633,
+								"MEAN_ANOMALY": 155.128
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58209,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 393,
+								"BSTAR": -0.018953,
+								"MEAN_MOTION_DOT": -0.01634742,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30846",
+							"OBJECT_ID": "2023-170E",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.64125765,
+								"ECCENTRICITY": 0.0001593,
+								"INCLINATION": 43.0006,
+								"RA_OF_ASC_NODE": 84.3231,
+								"ARG_OF_PERICENTER": 278.5796,
+								"MEAN_ANOMALY": 146.9015
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58210,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 381,
+								"BSTAR": -0.018972,
+								"MEAN_MOTION_DOT": -0.01636168,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30838",
+							"OBJECT_ID": "2023-170F",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.64122233,
+								"ECCENTRICITY": 0.0001653,
+								"INCLINATION": 43.0004,
+								"RA_OF_ASC_NODE": 84.3187,
+								"ARG_OF_PERICENTER": 270.4198,
+								"MEAN_ANOMALY": 156.8921
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58211,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 393,
+								"BSTAR": -0.018972,
+								"MEAN_MOTION_DOT": -0.01636001,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30837",
+							"OBJECT_ID": "2023-170G",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.64124716,
+								"ECCENTRICITY": 0.0001773,
+								"INCLINATION": 43.0001,
+								"RA_OF_ASC_NODE": 84.32,
+								"ARG_OF_PERICENTER": 269.2491,
+								"MEAN_ANOMALY": 157.4517
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58212,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 394,
+								"BSTAR": -0.018984,
+								"MEAN_MOTION_DOT": -0.01637135,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30813",
+							"OBJECT_ID": "2023-170H",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.64120527,
+								"ECCENTRICITY": 0.0001813,
+								"INCLINATION": 43.0003,
+								"RA_OF_ASC_NODE": 84.3166,
+								"ARG_OF_PERICENTER": 269.6314,
+								"MEAN_ANOMALY": 158.2902
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58213,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 381,
+								"BSTAR": -0.018952,
+								"MEAN_MOTION_DOT": -0.0163448,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30805",
+							"OBJECT_ID": "2023-170J",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.64118639,
+								"ECCENTRICITY": 0.0001494,
+								"INCLINATION": 43.0004,
+								"RA_OF_ASC_NODE": 84.3148,
+								"ARG_OF_PERICENTER": 281.0858,
+								"MEAN_ANOMALY": 147.4465
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58214,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 392,
+								"BSTAR": -0.018969,
+								"MEAN_MOTION_DOT": -0.01635467,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30851",
+							"OBJECT_ID": "2023-170K",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.64117526,
+								"ECCENTRICITY": 0.000143,
+								"INCLINATION": 43.0004,
+								"RA_OF_ASC_NODE": 84.3133,
+								"ARG_OF_PERICENTER": 279.8593,
+								"MEAN_ANOMALY": 149.2833
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58215,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 381,
+								"BSTAR": -0.018979,
+								"MEAN_MOTION_DOT": -0.01636125,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30786",
+							"OBJECT_ID": "2023-170L",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.64117597,
+								"ECCENTRICITY": 0.0001573,
+								"INCLINATION": 43.0004,
+								"RA_OF_ASC_NODE": 84.3119,
+								"ARG_OF_PERICENTER": 275.9525,
+								"MEAN_ANOMALY": 153.8003
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58216,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 392,
+								"BSTAR": -0.018996,
+								"MEAN_MOTION_DOT": -0.01637511,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30818",
+							"OBJECT_ID": "2023-170M",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.64116815,
+								"ECCENTRICITY": 0.0001617,
+								"INCLINATION": 43.0004,
+								"RA_OF_ASC_NODE": 84.3102,
+								"ARG_OF_PERICENTER": 268.511,
+								"MEAN_ANOMALY": 161.8514
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58217,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 393,
+								"BSTAR": -0.018999,
+								"MEAN_MOTION_DOT": -0.01637721,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30794",
+							"OBJECT_ID": "2023-170N",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.64117206,
+								"ECCENTRICITY": 0.0001749,
+								"INCLINATION": 43.0002,
+								"RA_OF_ASC_NODE": 84.3086,
+								"ARG_OF_PERICENTER": 269.8228,
+								"MEAN_ANOMALY": 161.1488
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58218,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 393,
+								"BSTAR": -0.019026,
+								"MEAN_MOTION_DOT": -0.01639881,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30835",
+							"OBJECT_ID": "2023-170P",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.64114163,
+								"ECCENTRICITY": 0.0001511,
+								"INCLINATION": 43.0004,
+								"RA_OF_ASC_NODE": 84.3071,
+								"ARG_OF_PERICENTER": 269.5027,
+								"MEAN_ANOMALY": 162.0803
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58219,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 381,
+								"BSTAR": -0.019008,
+								"MEAN_MOTION_DOT": -0.01638187,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30792",
+							"OBJECT_ID": "2023-170Q",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.64113018,
+								"ECCENTRICITY": 0.0001631,
+								"INCLINATION": 42.9999,
+								"RA_OF_ASC_NODE": 84.3053,
+								"ARG_OF_PERICENTER": 268.52,
+								"MEAN_ANOMALY": 163.6727
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58220,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 393,
+								"BSTAR": -0.019006,
+								"MEAN_MOTION_DOT": -0.01638043,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30836",
+							"OBJECT_ID": "2023-170R",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.64109971,
+								"ECCENTRICITY": 0.0001469,
+								"INCLINATION": 43,
+								"RA_OF_ASC_NODE": 84.3037,
+								"ARG_OF_PERICENTER": 279.971,
+								"MEAN_ANOMALY": 152.8333
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58221,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 381,
+								"BSTAR": -0.018986,
+								"MEAN_MOTION_DOT": -0.01636245,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30855",
+							"OBJECT_ID": "2023-170S",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.64109527,
+								"ECCENTRICITY": 0.0001464,
+								"INCLINATION": 43.0003,
+								"RA_OF_ASC_NODE": 84.3022,
+								"ARG_OF_PERICENTER": 278.6313,
+								"MEAN_ANOMALY": 154.7829
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58222,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 381,
+								"BSTAR": -0.019005,
+								"MEAN_MOTION_DOT": -0.01637661,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30840",
+							"OBJECT_ID": "2023-170T",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.64109277,
+								"ECCENTRICITY": 0.0001686,
+								"INCLINATION": 43.0002,
+								"RA_OF_ASC_NODE": 84.3009,
+								"ARG_OF_PERICENTER": 266.6742,
+								"MEAN_ANOMALY": 167.3487
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58223,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 381,
+								"BSTAR": -0.019006,
+								"MEAN_MOTION_DOT": -0.0163786,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30875",
+							"OBJECT_ID": "2023-170U",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.66488069,
+								"ECCENTRICITY": 0.0001745,
+								"INCLINATION": 43.0002,
+								"RA_OF_ASC_NODE": 84.2922,
+								"ARG_OF_PERICENTER": 269.5331,
+								"MEAN_ANOMALY": 167.8255
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58224,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 387,
+								"BSTAR": 0.0010436,
+								"MEAN_MOTION_DOT": 0.00113051,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30872",
+							"OBJECT_ID": "2023-170V",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.64109679,
+								"ECCENTRICITY": 0.000171,
+								"INCLINATION": 43.0002,
+								"RA_OF_ASC_NODE": 84.2977,
+								"ARG_OF_PERICENTER": 265.0571,
+								"MEAN_ANOMALY": 170.1858
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58225,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 274,
+								"BSTAR": -0.019095,
+								"MEAN_MOTION_DOT": -0.01644667,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30865",
+							"OBJECT_ID": "2023-170W",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.64102943,
+								"ECCENTRICITY": 0.000197,
+								"INCLINATION": 43.0002,
+								"RA_OF_ASC_NODE": 84.2947,
+								"ARG_OF_PERICENTER": 270.7368,
+								"MEAN_ANOMALY": 165.7279
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58226,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 381,
+								"BSTAR": -0.019006,
+								"MEAN_MOTION_DOT": -0.01637674,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30874",
+							"OBJECT_ID": "2023-170X",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.64104859,
+								"ECCENTRICITY": 0.0001498,
+								"INCLINATION": 43.0001,
+								"RA_OF_ASC_NODE": 84.2963,
+								"ARG_OF_PERICENTER": 268.7146,
+								"MEAN_ANOMALY": 167.1396
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58227,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 381,
+								"BSTAR": -0.019016,
+								"MEAN_MOTION_DOT": -0.01638249,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30871",
+							"OBJECT_ID": "2023-170Y",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.64101913,
+								"ECCENTRICITY": 0.0001501,
+								"INCLINATION": 43.0002,
+								"RA_OF_ASC_NODE": 84.2929,
+								"ARG_OF_PERICENTER": 269.6849,
+								"MEAN_ANOMALY": 167.39
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58228,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 273,
+								"BSTAR": -0.019013,
+								"MEAN_MOTION_DOT": -0.01637852,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30861",
+							"OBJECT_ID": "2023-171A",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.74152106,
+								"ECCENTRICITY": 0.0001859,
+								"INCLINATION": 43.0023,
+								"RA_OF_ASC_NODE": 180.9179,
+								"ARG_OF_PERICENTER": 276.7023,
+								"MEAN_ANOMALY": 130.0565
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58230,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 330,
+								"BSTAR": -0.011635,
+								"MEAN_MOTION_DOT": -0.01510114,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30867",
+							"OBJECT_ID": "2023-171B",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.74148167,
+								"ECCENTRICITY": 0.0001827,
+								"INCLINATION": 43.0025,
+								"RA_OF_ASC_NODE": 180.9162,
+								"ARG_OF_PERICENTER": 277.5075,
+								"MEAN_ANOMALY": 129.8776
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58231,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 330,
+								"BSTAR": -0.011606,
+								"MEAN_MOTION_DOT": -0.01506565,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30880",
+							"OBJECT_ID": "2023-171C",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.74141198,
+								"ECCENTRICITY": 0.0001485,
+								"INCLINATION": 43.0022,
+								"RA_OF_ASC_NODE": 180.9142,
+								"ARG_OF_PERICENTER": 279.964,
+								"MEAN_ANOMALY": 128.0482
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58232,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 324,
+								"BSTAR": -0.011544,
+								"MEAN_MOTION_DOT": -0.01498873,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30777",
+							"OBJECT_ID": "2023-171D",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.74102366,
+								"ECCENTRICITY": 0.000186,
+								"INCLINATION": 43.0022,
+								"RA_OF_ASC_NODE": 182.4266,
+								"ARG_OF_PERICENTER": 279.594,
+								"MEAN_ANOMALY": 151.425
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58233,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 321,
+								"BSTAR": -0.0038426,
+								"MEAN_MOTION_DOT": -0.00532754,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30860",
+							"OBJECT_ID": "2023-171E",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.74144834,
+								"ECCENTRICITY": 0.000123,
+								"INCLINATION": 43.0021,
+								"RA_OF_ASC_NODE": 180.9127,
+								"ARG_OF_PERICENTER": 290.5307,
+								"MEAN_ANOMALY": 118.1028
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58234,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 330,
+								"BSTAR": -0.011588,
+								"MEAN_MOTION_DOT": -0.01503923,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30879",
+							"OBJECT_ID": "2023-171F",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.74139093,
+								"ECCENTRICITY": 0.0001663,
+								"INCLINATION": 43.002,
+								"RA_OF_ASC_NODE": 180.9094,
+								"ARG_OF_PERICENTER": 282.8232,
+								"MEAN_ANOMALY": 127.0631
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58235,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 324,
+								"BSTAR": -0.011562,
+								"MEAN_MOTION_DOT": -0.01500921,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30853",
+							"OBJECT_ID": "2023-171G",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.74160604,
+								"ECCENTRICITY": 0.0001625,
+								"INCLINATION": 43.0019,
+								"RA_OF_ASC_NODE": 180.908,
+								"ARG_OF_PERICENTER": 277.6069,
+								"MEAN_ANOMALY": 132.8926
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58236,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 330,
+								"BSTAR": -0.011801,
+								"MEAN_MOTION_DOT": -0.01558348,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30866",
+							"OBJECT_ID": "2023-171H",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.74142115,
+								"ECCENTRICITY": 0.000162,
+								"INCLINATION": 43.0021,
+								"RA_OF_ASC_NODE": 180.9063,
+								"ARG_OF_PERICENTER": 276.9324,
+								"MEAN_ANOMALY": 134.2012
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58237,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 330,
+								"BSTAR": -0.011629,
+								"MEAN_MOTION_DOT": -0.01508687,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30817",
+							"OBJECT_ID": "2023-171J",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.74149275,
+								"ECCENTRICITY": 0.0002093,
+								"INCLINATION": 43.002,
+								"RA_OF_ASC_NODE": 180.9041,
+								"ARG_OF_PERICENTER": 285.6632,
+								"MEAN_ANOMALY": 126.0896
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58238,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 330,
+								"BSTAR": -0.01171,
+								"MEAN_MOTION_DOT": -0.01518638,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30847",
+							"OBJECT_ID": "2023-171K",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.74157245,
+								"ECCENTRICITY": 0.0001889,
+								"INCLINATION": 43.0019,
+								"RA_OF_ASC_NODE": 180.9028,
+								"ARG_OF_PERICENTER": 286.5045,
+								"MEAN_ANOMALY": 125.8693
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58239,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 330,
+								"BSTAR": -0.011813,
+								"MEAN_MOTION_DOT": -0.01559728,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30848",
+							"OBJECT_ID": "2023-171L",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.74149249,
+								"ECCENTRICITY": 0.0001454,
+								"INCLINATION": 43.0016,
+								"RA_OF_ASC_NODE": 180.8975,
+								"ARG_OF_PERICENTER": 277.8624,
+								"MEAN_ANOMALY": 136.3895
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58240,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 330,
+								"BSTAR": -0.011791,
+								"MEAN_MOTION_DOT": -0.01556371,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30843",
+							"OBJECT_ID": "2023-171M",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.74153574,
+								"ECCENTRICITY": 0.0001511,
+								"INCLINATION": 43.0015,
+								"RA_OF_ASC_NODE": 180.9008,
+								"ARG_OF_PERICENTER": 283.5809,
+								"MEAN_ANOMALY": 129.4197
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58241,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 330,
+								"BSTAR": -0.011791,
+								"MEAN_MOTION_DOT": -0.01556669,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30877",
+							"OBJECT_ID": "2023-171N",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.7414369,
+								"ECCENTRICITY": 0.0001411,
+								"INCLINATION": 43.0015,
+								"RA_OF_ASC_NODE": 180.8993,
+								"ARG_OF_PERICENTER": 285.709,
+								"MEAN_ANOMALY": 127.9213
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58242,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 329,
+								"BSTAR": -0.011712,
+								"MEAN_MOTION_DOT": -0.0151806,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30864",
+							"OBJECT_ID": "2023-171P",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.74148713,
+								"ECCENTRICITY": 0.0001564,
+								"INCLINATION": 43.0013,
+								"RA_OF_ASC_NODE": 180.8939,
+								"ARG_OF_PERICENTER": 281.9018,
+								"MEAN_ANOMALY": 133.5992
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58243,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 319,
+								"BSTAR": -0.011814,
+								"MEAN_MOTION_DOT": -0.01559119,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30854",
+							"OBJECT_ID": "2023-171Q",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.74165423,
+								"ECCENTRICITY": 0.0001767,
+								"INCLINATION": 43.0013,
+								"RA_OF_ASC_NODE": 180.8957,
+								"ARG_OF_PERICENTER": 275.2158,
+								"MEAN_ANOMALY": 139.6517
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58244,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 331,
+								"BSTAR": -0.011969,
+								"MEAN_MOTION_DOT": -0.01578528,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30849",
+							"OBJECT_ID": "2023-171R",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.74171602,
+								"ECCENTRICITY": 0.0001729,
+								"INCLINATION": 43.0013,
+								"RA_OF_ASC_NODE": 180.8924,
+								"ARG_OF_PERICENTER": 272.5365,
+								"MEAN_ANOMALY": 143.5768
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58245,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 330,
+								"BSTAR": -0.012066,
+								"MEAN_MOTION_DOT": -0.01590287,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30886",
+							"OBJECT_ID": "2023-171S",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.74201988,
+								"ECCENTRICITY": 0.000221,
+								"INCLINATION": 43.0013,
+								"RA_OF_ASC_NODE": 180.8891,
+								"ARG_OF_PERICENTER": 286.023,
+								"MEAN_ANOMALY": 131.3205
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58246,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 330,
+								"BSTAR": -0.012384,
+								"MEAN_MOTION_DOT": -0.0162979,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30850",
+							"OBJECT_ID": "2023-171T",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.74037657,
+								"ECCENTRICITY": 0.0001962,
+								"INCLINATION": 43.0013,
+								"RA_OF_ASC_NODE": 180.8905,
+								"ARG_OF_PERICENTER": 258.7746,
+								"MEAN_ANOMALY": 158.0457
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58247,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 313,
+								"BSTAR": -0.010855,
+								"MEAN_MOTION_DOT": -0.01414394,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30823",
+							"OBJECT_ID": "2023-171U",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.74028907,
+								"ECCENTRICITY": 0.000188,
+								"INCLINATION": 43.0012,
+								"RA_OF_ASC_NODE": 180.8876,
+								"ARG_OF_PERICENTER": 258.4934,
+								"MEAN_ANOMALY": 159.585
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58248,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 330,
+								"BSTAR": -0.010853,
+								"MEAN_MOTION_DOT": -0.01413633,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30873",
+							"OBJECT_ID": "2023-171V",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.74054723,
+								"ECCENTRICITY": 0.0001831,
+								"INCLINATION": 43.0013,
+								"RA_OF_ASC_NODE": 180.886,
+								"ARG_OF_PERICENTER": 262.4094,
+								"MEAN_ANOMALY": 156.2735
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58249,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 330,
+								"BSTAR": -0.011064,
+								"MEAN_MOTION_DOT": -0.0143931,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30808",
+							"OBJECT_ID": "2023-171W",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T22:00:00.999936",
+								"MEAN_MOTION": 15.75644832,
+								"ECCENTRICITY": 0.0001701,
+								"INCLINATION": 43.0023,
+								"RA_OF_ASC_NODE": 182.2245,
+								"ARG_OF_PERICENTER": 281.6071,
+								"MEAN_ANOMALY": 229.1773
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58250,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 327,
+								"BSTAR": -0.0072269,
+								"MEAN_MOTION_DOT": -0.01029186,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30881",
+							"OBJECT_ID": "2023-171X",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.79837236,
+								"ECCENTRICITY": 0.0001816,
+								"INCLINATION": 43.0031,
+								"RA_OF_ASC_NODE": 180.3727,
+								"ARG_OF_PERICENTER": 275.0544,
+								"MEAN_ANOMALY": 348.217
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58251,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 324,
+								"BSTAR": -0.0061072,
+								"MEAN_MOTION_DOT": -0.01049296,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "STARLINK-30883",
+							"OBJECT_ID": "2023-171Y",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T04:00:00.999936",
+								"MEAN_MOTION": 15.73988629,
+								"ECCENTRICITY": 0.0002607,
+								"INCLINATION": 43.0013,
+								"RA_OF_ASC_NODE": 180.8831,
+								"ARG_OF_PERICENTER": 278.427,
+								"MEAN_ANOMALY": 141.5815
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58252,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 330,
+								"BSTAR": -0.01087,
+								"MEAN_MOTION_DOT": -0.01413862,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "CHINASAT 6E (ZX 6E)",
+							"OBJECT_ID": "2023-172A",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-17T17:53:42.717984",
+								"MEAN_MOTION": 1.00274637,
+								"ECCENTRICITY": 0.0002534,
+								"INCLINATION": 0.072,
+								"RA_OF_ASC_NODE": 256.8198,
+								"ARG_OF_PERICENTER": 265.5418,
+								"MEAN_ANOMALY": 292.4154
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58253,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 20,
+								"BSTAR": 0,
+								"MEAN_MOTION_DOT": -0.00000324,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "CZ-3B R/B",
+							"OBJECT_ID": "2023-172B",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-18T21:04:18.690240",
+								"MEAN_MOTION": 2.39962475,
+								"ECCENTRICITY": 0.7219992,
+								"INCLINATION": 28.384,
+								"RA_OF_ASC_NODE": 212.5662,
+								"ARG_OF_PERICENTER": 184.6718,
+								"MEAN_ANOMALY": 160.1747
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58254,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 22,
+								"BSTAR": 0.0026798,
+								"MEAN_MOTION_DOT": 0.00080328,
+								"MEAN_MOTION_DDOT": -4.2265e-7
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "DRAGON CRS-29",
+							"OBJECT_ID": "2023-173A",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T08:29:18.260448",
+								"MEAN_MOTION": 15.49460464,
+								"ECCENTRICITY": 0.0001081,
+								"INCLINATION": 51.6404,
+								"RA_OF_ASC_NODE": 275.0383,
+								"ARG_OF_PERICENTER": 316.8693,
+								"MEAN_ANOMALY": 43.2211
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58255,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 42600,
+								"BSTAR": 0.00024932,
+								"MEAN_MOTION_DOT": 0.00013532,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "2023-175A",
+							"OBJECT_ID": "2023-175A",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-17T17:19:18.717888",
+								"MEAN_MOTION": 7.31383447,
+								"ECCENTRICITY": 0.1950374,
+								"INCLINATION": 8.8399,
+								"RA_OF_ASC_NODE": 193.5472,
+								"ARG_OF_PERICENTER": 194.5131,
+								"MEAN_ANOMALY": 158.9927
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58346,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 35,
+								"BSTAR": 0.0028732,
+								"MEAN_MOTION_DOT": 5.6e-7,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "2023-175B",
+							"OBJECT_ID": "2023-175B",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-17T17:10:47.800128",
+								"MEAN_MOTION": 7.334589,
+								"ECCENTRICITY": 0.1967305,
+								"INCLINATION": 8.9935,
+								"RA_OF_ASC_NODE": 193.6089,
+								"ARG_OF_PERICENTER": 194.634,
+								"MEAN_ANOMALY": 158.7535
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58347,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 35,
+								"BSTAR": 0.0026702,
+								"MEAN_MOTION_DOT": 5.6e-7,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "FALCON 9 R/B",
+							"OBJECT_ID": "2023-175C",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-20T00:31:21.330624",
+								"MEAN_MOTION": 7.34851225,
+								"ECCENTRICITY": 0.197219,
+								"INCLINATION": 9.007,
+								"RA_OF_ASC_NODE": 190.1664,
+								"ARG_OF_PERICENTER": 201.6304,
+								"MEAN_ANOMALY": 148.7528
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58348,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 52,
+								"BSTAR": 0.039874,
+								"MEAN_MOTION_DOT": 0.00000142,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "HAIYANG-3A",
+							"OBJECT_ID": "2023-176A",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-21T03:54:27.377568",
+								"MEAN_MOTION": 14.34067638,
+								"ECCENTRICITY": 0.0013921,
+								"INCLINATION": 98.6478,
+								"RA_OF_ASC_NODE": 32.733,
+								"ARG_OF_PERICENTER": 289.7213,
+								"MEAN_ANOMALY": 70.2469
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58349,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 71,
+								"BSTAR": 0.000060803,
+								"MEAN_MOTION_DOT": 0.00000125,
+								"MEAN_MOTION_DDOT": 0
+							}
+						}
+					}
+				}
+			},
+			{
+				"header": {
+					"CREATION_DATE": "",
+					"ORIGINATOR": ""
+				},
+				"body": {
+					"segment": {
+						"metadata": {
+							"OBJECT_NAME": "YZ-1S R/B",
+							"OBJECT_ID": "2023-176B",
+							"CENTER_NAME": "EARTH",
+							"REF_FRAME": "TEME",
+							"TIME_SYSTEM": "UTC",
+							"MEAN_ELEMENT_THEORY": "SGP4"
+						},
+						"data": {
+							"meanElements": {
+								"EPOCH": "2023-11-18T00:58:01.379136",
+								"MEAN_MOTION": 15.5724246,
+								"ECCENTRICITY": 0.0411941,
+								"INCLINATION": 98.5907,
+								"RA_OF_ASC_NODE": 30.0682,
+								"ARG_OF_PERICENTER": 295.921,
+								"MEAN_ANOMALY": 163.4597
+							},
+							"tleParameters": {
+								"EPHEMERIS_TYPE": 0,
+								"CLASSIFICATION_TYPE": "U",
+								"NORAD_CAT_ID": 58350,
+								"ELEMENT_SET_NO": 999,
+								"REV_AT_EPOCH": 28,
+								"BSTAR": 0.00018329,
+								"MEAN_MOTION_DOT": 0.06309331,
+								"MEAN_MOTION_DDOT": 0.0000031904
+							}
+						}
+					}
+				}
+			}
+		]
+	}
+}
